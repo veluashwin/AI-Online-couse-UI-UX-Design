@@ -1,0 +1,969 @@
+[
+  {
+    "id": "VariableCollectionId:52:1069",
+    "name": "Collection 1",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "52:0"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:52:1884",
+        "name": "ink",
+        "type": "COLOR",
+        "values": {
+          "52:0": {
+            "r": 1,
+            "g": 0.22745098173618317,
+            "b": 0.729411780834198,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:1888",
+        "name": "Color",
+        "type": "COLOR",
+        "values": {
+          "52:0": {
+            "r": 0.125490203499794,
+            "g": 0.13333334028720856,
+            "b": 0.2666666805744171,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:3387",
+        "name": "Main Colour ",
+        "type": "COLOR",
+        "values": {
+          "52:0": {
+            "r": 0,
+            "g": 0.40784314274787903,
+            "b": 0.3686274588108063,
+            "a": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "VariableCollectionId:52:2167",
+    "name": "Primitive",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "16:1"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:52:2168",
+        "name": "w white",
+        "type": "COLOR",
+        "values": {
+          "16:1": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2169",
+        "name": "w pink",
+        "type": "COLOR",
+        "values": {
+          "16:1": {
+            "r": 1,
+            "g": 0.22745098173618317,
+            "b": 0.729411780834198,
+            "a": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "VariableCollectionId:52:2212",
+    "name": "www.kota.io",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "52:1"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:52:2228",
+        "name": "opacity/100",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 100
+        }
+      },
+      {
+        "id": "VariableID:52:2266",
+        "name": "opacity/60",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 60
+        }
+      },
+      {
+        "id": "VariableID:52:2297",
+        "name": "color/violet/52",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.4000000059604645,
+            "g": 0.16078431904315948,
+            "b": 0.8705882430076599,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2298",
+        "name": "font family/Font 1",
+        "type": "STRING",
+        "values": {
+          "52:1": "Inter"
+        }
+      },
+      {
+        "id": "VariableID:52:2299",
+        "name": "font size/16",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 16
+        }
+      },
+      {
+        "id": "VariableID:52:2300",
+        "name": "font weight/500",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 500
+        }
+      },
+      {
+        "id": "VariableID:52:2301",
+        "name": "letter spacing/-0_03",
+        "type": "FLOAT",
+        "values": {
+          "52:1": -0.03200000151991844
+        }
+      },
+      {
+        "id": "VariableID:52:2302",
+        "name": "line height/22",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 22
+        }
+      },
+      {
+        "id": "VariableID:52:2307",
+        "name": "color/grey/20",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.20000000298023224,
+            "g": 0.20000000298023224,
+            "b": 0.20000000298023224,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2309",
+        "name": "color/violet/49",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.40784314274787903,
+            "g": 0.24705882370471954,
+            "b": 0.7254902124404907,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2312",
+        "name": "color/grey/97",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9686274528503418,
+            "g": 0.9686274528503418,
+            "b": 0.9686274528503418,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2316",
+        "name": "color/grey/97 80%",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9843137264251709,
+            "g": 0.9803921580314636,
+            "b": 0.9490196108818054,
+            "a": 0.800000011920929
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2318",
+        "name": "color/grey/16",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.16078431904315948,
+            "g": 0.16078431904315948,
+            "b": 0.16078431904315948,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2324",
+        "name": "color/grey/16 14%",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.16078431904315948,
+            "g": 0.16078431904315948,
+            "b": 0.16078431904315948,
+            "a": 0.14000000059604645
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2327",
+        "name": "font size/12",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 12
+        }
+      },
+      {
+        "id": "VariableID:52:2334",
+        "name": "font weight/400",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 400
+        }
+      },
+      {
+        "id": "VariableID:52:2339",
+        "name": "color/grey/97 20%",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9843137264251709,
+            "g": 0.9803921580314636,
+            "b": 0.9490196108818054,
+            "a": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2344",
+        "name": "color/grey/97 14%",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9843137264251709,
+            "g": 0.9803921580314636,
+            "b": 0.9490196108818054,
+            "a": 0.14000000059604645
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2349",
+        "name": "font size/14",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 14
+        }
+      },
+      {
+        "id": "VariableID:52:2350",
+        "name": "line height/20",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 20
+        }
+      },
+      {
+        "id": "VariableID:52:2355",
+        "name": "item spacing/2",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 2
+        }
+      },
+      {
+        "id": "VariableID:52:2364",
+        "name": "opacity/70",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 70
+        }
+      },
+      {
+        "id": "VariableID:52:2366",
+        "name": "width/36",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 36
+        }
+      },
+      {
+        "id": "VariableID:52:2371",
+        "name": "width/1920",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 1920
+        }
+      },
+      {
+        "id": "VariableID:52:2372",
+        "name": "height/1200",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 1200
+        }
+      },
+      {
+        "id": "VariableID:52:2393",
+        "name": "width/28",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 28
+        }
+      },
+      {
+        "id": "VariableID:52:2406",
+        "name": "width/56_61",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 56.61000061035156
+        }
+      },
+      {
+        "id": "VariableID:52:2412",
+        "name": "font size/18",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 18
+        }
+      },
+      {
+        "id": "VariableID:52:2413",
+        "name": "letter spacing/-0_09",
+        "type": "FLOAT",
+        "values": {
+          "52:1": -0.09000000357627869
+        }
+      },
+      {
+        "id": "VariableID:52:2414",
+        "name": "line height/24",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 24
+        }
+      },
+      {
+        "id": "VariableID:52:2425",
+        "name": "width/59_36",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 59.36000061035156
+        }
+      },
+      {
+        "id": "VariableID:52:2439",
+        "name": "item spacing/xxs",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 4
+        }
+      },
+      {
+        "id": "VariableID:52:2445",
+        "name": "color/white/solid",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2456",
+        "name": "color/grey/28",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.27450981736183167,
+            "g": 0.2666666805744171,
+            "b": 0.29019609093666077,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2461",
+        "name": "width/17_6",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 17.600000381469727
+        }
+      },
+      {
+        "id": "VariableID:52:2462",
+        "name": "color/red/65",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 1,
+            "g": 0.2980392277240753,
+            "b": 0.2980392277240753,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2465",
+        "name": "font family/Font 2",
+        "type": "STRING",
+        "values": {
+          "52:1": "Open Sans"
+        }
+      },
+      {
+        "id": "VariableID:52:2466",
+        "name": "font weight/700",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 700
+        }
+      },
+      {
+        "id": "VariableID:52:2480",
+        "name": "font size/11",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 11
+        }
+      },
+      {
+        "id": "VariableID:52:2614",
+        "name": "width/1306",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 1306
+        }
+      },
+      {
+        "id": "VariableID:52:2640",
+        "name": "letter spacing/0_19",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 0.19200000166893005
+        }
+      },
+      {
+        "id": "VariableID:52:2643",
+        "name": "width/545",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 545
+        }
+      },
+      {
+        "id": "VariableID:52:2645",
+        "name": "font family/Font 3",
+        "type": "STRING",
+        "values": {
+          "52:1": "Plus Jakarta Sans"
+        }
+      },
+      {
+        "id": "VariableID:52:2646",
+        "name": "font size/56",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 56
+        }
+      },
+      {
+        "id": "VariableID:52:2647",
+        "name": "letter spacing/-1_12",
+        "type": "FLOAT",
+        "values": {
+          "52:1": -1.1200000047683716
+        }
+      },
+      {
+        "id": "VariableID:52:2648",
+        "name": "line height/58",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 58
+        }
+      },
+      {
+        "id": "VariableID:52:2651",
+        "name": "width/408",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 408
+        }
+      },
+      {
+        "id": "VariableID:52:2653",
+        "name": "letter spacing/-0_1",
+        "type": "FLOAT",
+        "values": {
+          "52:1": -0.10000000149011612
+        }
+      },
+      {
+        "id": "VariableID:52:2654",
+        "name": "line height/26",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 26
+        }
+      },
+      {
+        "id": "VariableID:52:2657",
+        "name": "width/1308",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 1308
+        }
+      },
+      {
+        "id": "VariableID:52:2668",
+        "name": "stroke weight/1",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 1
+        }
+      },
+      {
+        "id": "VariableID:52:2670",
+        "name": "width/337",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 337
+        }
+      },
+      {
+        "id": "VariableID:52:2672",
+        "name": "width/48",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 48
+        }
+      },
+      {
+        "id": "VariableID:52:2677",
+        "name": "letter spacing/-0_38",
+        "type": "FLOAT",
+        "values": {
+          "52:1": -0.3840000033378601
+        }
+      },
+      {
+        "id": "VariableID:52:2678",
+        "name": "line height/30",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 30
+        }
+      },
+      {
+        "id": "VariableID:52:2684",
+        "name": "width/338",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 338
+        }
+      },
+      {
+        "id": "VariableID:52:2703",
+        "name": "color/black/solid",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2765",
+        "name": "letter spacing/-0_96",
+        "type": "FLOAT",
+        "values": {
+          "52:1": -0.9599999785423279
+        }
+      },
+      {
+        "id": "VariableID:52:2781",
+        "name": "item spacing/208",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 208
+        }
+      },
+      {
+        "id": "VariableID:52:2783",
+        "name": "width/496",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 496
+        }
+      },
+      {
+        "id": "VariableID:52:2804",
+        "name": "width/340",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 340
+        }
+      },
+      {
+        "id": "VariableID:52:2832",
+        "name": "color/cyan/33",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.1764705926179886,
+            "g": 0.47843137383461,
+            "b": 0.45098039507865906,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2835",
+        "name": "color/cyan/42",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.23529411852359772,
+            "g": 0.6117647290229797,
+            "b": 0.5490196347236633,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2844",
+        "name": "color/grey/97 40%",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9843137264251709,
+            "g": 0.9803921580314636,
+            "b": 0.9490196108818054,
+            "a": 0.4000000059604645
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2850",
+        "name": "color/violet/75",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.6901960968971252,
+            "g": 0.5568627715110779,
+            "b": 0.9529411792755127,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2861",
+        "name": "color/orange/68",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9411764740943909,
+            "g": 0.572549045085907,
+            "b": 0.42352941632270813,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2864",
+        "name": "color/orange/80",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.95686274766922,
+            "g": 0.7372549176216125,
+            "b": 0.6352941393852234,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2874",
+        "name": "height/260",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 260
+        }
+      },
+      {
+        "id": "VariableID:52:2875",
+        "name": "color/grey/98",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9725490212440491,
+            "g": 0.9607843160629272,
+            "b": 0.9960784316062927,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2878",
+        "name": "letter spacing/-0_51",
+        "type": "FLOAT",
+        "values": {
+          "52:1": -0.5120000243186951
+        }
+      },
+      {
+        "id": "VariableID:52:2879",
+        "name": "line height/34",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 34
+        }
+      },
+      {
+        "id": "VariableID:52:2882",
+        "name": "width/360",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 360
+        }
+      },
+      {
+        "id": "VariableID:52:2885",
+        "name": "height/150",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 150
+        }
+      },
+      {
+        "id": "VariableID:52:2893",
+        "name": "width/480",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 480
+        }
+      },
+      {
+        "id": "VariableID:52:2899",
+        "name": "color/grey/92",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9372549057006836,
+            "g": 0.9372549057006836,
+            "b": 0.9098039269447327,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2906",
+        "name": "width/840",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 840
+        }
+      },
+      {
+        "id": "VariableID:52:2916",
+        "name": "color/yellow/68",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.8901960849761963,
+            "g": 0.9686274528503418,
+            "b": 0.3921568691730499,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:2922",
+        "name": "width/74",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 74
+        }
+      },
+      {
+        "id": "VariableID:52:2968",
+        "name": "width/165",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 165
+        }
+      },
+      {
+        "id": "VariableID:52:3034",
+        "name": "width/44",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 44
+        }
+      },
+      {
+        "id": "VariableID:52:3068",
+        "name": "width/295",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 295
+        }
+      },
+      {
+        "id": "VariableID:52:3069",
+        "name": "color/grey/95",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.9490196108818054,
+            "g": 0.9490196108818054,
+            "b": 0.9529411792755127,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:3080",
+        "name": "radius/10",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 10
+        }
+      },
+      {
+        "id": "VariableID:52:3082",
+        "name": "color/white/ 0_2%",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 0.0020000000949949026
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:3086",
+        "name": "item spacing/0",
+        "type": "FLOAT",
+        "values": {
+          "52:1": -5.3290705182007514e-14
+        }
+      },
+      {
+        "id": "VariableID:52:3088",
+        "name": "color/grey/46",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.45098039507865906,
+            "g": 0.45098039507865906,
+            "b": 0.4627451002597809,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:3089",
+        "name": "line height/16_8",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 16.799999237060547
+        }
+      },
+      {
+        "id": "VariableID:52:3096",
+        "name": "color/grey/50",
+        "type": "COLOR",
+        "values": {
+          "52:1": {
+            "r": 0.501960813999176,
+            "g": 0.501960813999176,
+            "b": 0.501960813999176,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:52:3097",
+        "name": "line height/21",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 21
+        }
+      },
+      {
+        "id": "VariableID:52:3104",
+        "name": "line height/19_6",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 19.600000381469727
+        }
+      },
+      {
+        "id": "VariableID:52:3120",
+        "name": "stroke weight/13",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 13
+        }
+      },
+      {
+        "id": "VariableID:52:3121",
+        "name": "stroke weight/5",
+        "type": "FLOAT",
+        "values": {
+          "52:1": 5
+        }
+      }
+    ]
+  }
+]
